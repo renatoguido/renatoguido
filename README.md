@@ -3,7 +3,6 @@
 
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
-- 👨‍💻 Jovem Aprendiz Tech na Vivo, na área de arquitetura de soluções e integração de sistemas.
 
 
 ## GitHub Stats
